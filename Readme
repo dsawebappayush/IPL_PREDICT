@@ -1,0 +1,3 @@
+A machine learning project to predict result of IPL matches using state of match 
+I have used python , numpy , streamlit and pickle mostly to execte the project
+Kaggle data set of IPL was used to train the model
